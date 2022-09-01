@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Todayplan/static/css/main.1431efd1.css",
+    "main.js": "/Todayplan/static/js/main.c85f5240.js",
+    "static/js/787.7e754aac.chunk.js": "/Todayplan/static/js/787.7e754aac.chunk.js",
+    "index.html": "/Todayplan/index.html",
+    "main.1431efd1.css.map": "/Todayplan/static/css/main.1431efd1.css.map",
+    "main.c85f5240.js.map": "/Todayplan/static/js/main.c85f5240.js.map",
+    "787.7e754aac.chunk.js.map": "/Todayplan/static/js/787.7e754aac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1431efd1.css",
+    "static/js/main.c85f5240.js"
+  ]
+}
